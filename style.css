@@ -1,0 +1,51 @@
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+}
+.grid1{
+    background-color:rgb(80, 171, 80);
+    height: 50px;
+    width: 50%;
+}
+.grid2{
+    background-color:blue ;
+    width: 50% ;
+    height: 50px;
+
+}
+.grid3{
+    background-color: red ;
+    width: 50% ;
+    height: 50px;
+}
+.grid4{
+    background-color: orange ;
+    width: 50% ;
+    height: 50px;
+}
+.grid5{
+    background-color: grey;
+    width: 50%;
+    height: 50px;
+}
+.grid6{
+    background-color: red ;
+    width: 50% ;
+    height: 50px;
+}
+.grid7{
+    background-color: yellow ;
+    width: 50%;
+    height: 50px;
+}
+.grid8{
+    background-color:aqua ;
+    width: 50%;
+    height: 50px;
+}
+.grid9{
+    background-color: coral;
+    width: 50%;
+    height: 50px;
+}
